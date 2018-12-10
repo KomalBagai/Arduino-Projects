@@ -9,3 +9,6 @@ The hardware was prepared using Arduino UNO and an Ultrsonic sensor mounted on a
 This folder contains two codes:
 1. **distance_and_angle:** this .ino file contains calculation of distance and angle of an obstacle using ultrasonic sensor, servo motor and Arduino UNO.
 2. **position_detection:** this .ino file contains calculation of x and y coordinates of the obstacle from the radar system.
+
+## LFR- Line Following Robot
+The LFR.ino contains the code for building a line following robot from scratch.
